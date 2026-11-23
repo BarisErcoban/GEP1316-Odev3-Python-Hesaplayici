@@ -1,0 +1,34 @@
+=== Normal (cikis kodu 0) ===
+KAR MARJI VE KDV HESAPLAYICISI
+Urun adi: Urun adedi: Birim alis fiyati (TL, KDV haric): Birim satis fiyati (TL, KDV haric): KDV orani (%): 
+Urun: Kalem | Adet: 2
+Toplam kar: 40.00 TL
+Kar marji: %20.00
+Toplam KDV: 40.00 TL
+KDV dahil toplam satis: 240.00 TL
+Karli mi?: Evet
+
+=== Zarar (cikis kodu 0) ===
+KAR MARJI VE KDV HESAPLAYICISI
+Urun adi: Urun adedi: Birim alis fiyati (TL, KDV haric): Birim satis fiyati (TL, KDV haric): KDV orani (%): 
+Urun: Defter | Adet: 1
+Toplam kar: -20.00 TL
+Kar marji: %-20.00
+Toplam KDV: 10.00 TL
+KDV dahil toplam satis: 110.00 TL
+Karli mi?: Hayir
+
+=== Sifir satis (cikis kodu 0) ===
+KAR MARJI VE KDV HESAPLAYICISI
+Urun adi: Urun adedi: Birim alis fiyati (TL, KDV haric): Birim satis fiyati (TL, KDV haric): KDV orani (%): 
+Urun: Urun | Adet: 1
+Toplam kar: 0.00 TL
+Kar marji: %0.00
+Toplam KDV: 0.00 TL
+KDV dahil toplam satis: 0.00 TL
+Karli mi?: Hayir
+
+=== Hatali giris (cikis kodu 0) ===
+KAR MARJI VE KDV HESAPLAYICISI
+Urun adi: Urun adedi: Gecersiz giris: invalid literal for int() with base 10: 'abc'
+
